@@ -1,7 +1,3 @@
-Aqui está o README em português:  
-
----
-
 # Alternância entre Modo Claro e Escuro  
 
 ## Descrição  
@@ -55,8 +51,6 @@ This project provides a simple implementation of a **light/dark mode toggle** us
 
 ## Author
 Developed by **[Carlitos Tchingala]**.
-
----
 
 ### README（中文）
 
