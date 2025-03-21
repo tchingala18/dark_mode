@@ -22,7 +22,7 @@ Este projeto implementa um **botão de alternância entre modo claro e escuro**,
 - JavaScript  
 
 ## Autor  
-Desenvolvido por **[Carlitos Tchingala]**.
+Desenvolvido por **Carlitos Tchingala**.
 
 ### README (English)
 
@@ -50,7 +50,7 @@ This project provides a simple implementation of a **light/dark mode toggle** us
 - JavaScript
 
 ## Author
-Developed by **[Carlitos Tchingala]**.
+Developed by **Carlitos Tchingala**.
 
 ### README（中文）
 
@@ -78,4 +78,4 @@ Developed by **[Carlitos Tchingala]**.
 - JavaScript
 
 ## 作者
-由 **[Carlitos Tchingala]** 开发。
+由 **Carlitos Tchingala** 开发。
